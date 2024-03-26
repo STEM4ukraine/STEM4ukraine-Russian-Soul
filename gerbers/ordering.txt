@@ -1,0 +1,4 @@
+92mm wide x 100mm high
+black soldermask
+white silkscreen
+Pb/Sn pads
